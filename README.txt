@@ -5,6 +5,7 @@ FRANCAIS:
 ///INFO
 CryptoTool est un programme de cryptage en XOR fait avec python et converti en C++
 Vous pouvez également décrypter votre fichier de la meme methode que celle du cryptage 
+Le code original se trouve dans main.py
 ------------------------------------
 Fait par https://github.com/iliS10
 -------------------------------------
